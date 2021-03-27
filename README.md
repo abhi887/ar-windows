@@ -9,10 +9,10 @@ A simple augmented-reality (AR) application to move windows around using hand ge
 1. `python ar-windows.py`
 
 ### Instruction for use
-   - for window selection
+   1. For window selection
         - glide your hand left or right to mark window.
         - raise your hand to select marked window.
-   - for window movement
+   2. For window movement
         - move your hand to move the window.
         - move window to screen edges to drop.
         - press ESC to exit.
