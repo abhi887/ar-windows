@@ -1,5 +1,5 @@
 # ar-windows
-A simple augmented-reality (AR) application to move windows around using hand gestures
+A simple augmented reality (AR) application to move windows around using hand gestures
 
 ### Setup & Usage
 ##### setup
