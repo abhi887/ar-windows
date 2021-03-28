@@ -1,6 +1,6 @@
-win32gui
-win32api
 pyautogui
-python-opencv
 numpy
 keyboard
+python-opencv
+win32gui
+win32api
